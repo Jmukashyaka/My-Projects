@@ -46,14 +46,3 @@ l3.place(x=50,y=10)#position the label
 #setting 2nd image in label l4
 
 l4=tk.Label(root,image=test2)
-
-l4.place(x=350,y=10)#position the label
-
-#displaying a menu for pizza using a label with font and size of text
-
-
-
-
-
-
-
